@@ -21,7 +21,7 @@ int main(){
 	for(i=0;i<tamanho;i++){//o for para ter incremento
 		printf("%d\n", numeros[i]);//
 	}
-	
+	printf("isso foi modificado");
 	
 	return 0;
 }
